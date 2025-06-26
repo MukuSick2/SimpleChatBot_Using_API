@@ -68,7 +68,8 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 ---
 
 ## 🖼️ Screenshots
-_Add your screenshots here!_
+
+<img src="https://github.com/user-attachments/assets/e99714ff-3070-4a18-81b8-9244ca9235ba">
 
 ---
 
